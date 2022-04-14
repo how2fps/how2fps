@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @how2fps
-- 👀 I love theorycrafting in card games, surprisingly I also somewhat enjoy web development.
-- 🌱 I’m currently learning React, and then I'll move on to typescript, and azure (maybe aws).
-- 💞️ I’m looking to collaborate on fun small projects.
 
 <!---
 how2fps/how2fps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
